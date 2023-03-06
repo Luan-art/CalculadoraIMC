@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App3_CalculadoraIMC</string>
+    <string name="txt_weight">Peso(KG): </string>
+    <string name="txt_height">Altura(M):</string>
+    <string name="btn_text">Calcular IMC: </string>
+    <string name="numeber_error_mensagem">Numeros invalidos</string>
+</resources>
